@@ -1,0 +1,18 @@
+{
+  "name": "edina-fonts",
+  "description": "Fonts used by EDINA",
+  "version": "0.0.1"
+  "keywords": [],
+  "homepage": "https://github.com/edina/edina-fonts",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": [""],
+  "main": [
+    "./css/edina-fonts.css",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.md"
+  ]
+}
