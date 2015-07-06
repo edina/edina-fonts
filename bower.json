@@ -1,18 +1,24 @@
 {
   "name": "edina-fonts",
-  "description": "Fonts used by EDINA",
-  "version": "0.0.1"
-  "keywords": [],
-  "homepage": "https://github.com/edina/edina-fonts",
-  "dependencies": {},
-  "devDependencies": {},
-  "license": [""],
-  "main": [
-    "./css/edina-fonts.css",
-    "./fonts/*"
+  "version": "0.0.1",
+  "authors": [
+    "Mark Small <m.small@ed.ac.uk>"
   ],
+  "description": "Fonts used by EDINA",
+  "main": [
+      "css/edina-fonts.css",
+      "fonts/*"
+  ],
+  "keywords": [
+    "EDINA",
+    "Fonts"
+  ],
+  "license": "",
+  "dependencies": {},
   "ignore": [
-    "*/.*",
-    "*.md"
+    "**/.*",
+    "*.md",
+    "node_modules",
+    "bower_components"
   ]
 }
