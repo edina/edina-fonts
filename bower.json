@@ -1,12 +1,12 @@
 {
   "name": "edina-fonts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Mark Small <m.small@ed.ac.uk>"
   ],
   "description": "Fonts used by EDINA",
   "main": [
-      "css/edina-fonts.css",
+      "style/edina-fonts.css",
       "fonts/*"
   ],
   "keywords": [
