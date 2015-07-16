@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'edina-fonts';
-	src:url('../fonts/edina-fonts.eot?96z4nu');
-	src:url('../fonts/edina-fonts.eot?#iefix96z4nu') format('embedded-opentype'),
-		url('../fonts/edina-fonts.ttf?96z4nu') format('truetype'),
-		url('../fonts/edina-fonts.woff?96z4nu') format('woff'),
-		url('../fonts/edina-fonts.svg?96z4nu#icomoon') format('svg');
+	src:url('../fonts/edina-fonts.eot?-ct11kw');
+	src:url('../fonts/edina-fonts.eot?#iefix-ct11kw') format('embedded-opentype'),
+		url('../fonts/edina-fonts.ttf?-ct11kw') format('truetype'),
+		url('../fonts/edina-fonts.woff?-ct11kw') format('woff'),
+		url('../fonts/edina-fonts.svg?-ct11kw#edina-fonts') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,15 +23,66 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-home:before {
-	content: "\e900";
+.icon-youtube:before {
+	content: "\e60a";
 }
-.icon-camera:before {
-	content: "\e90f";
+.icon-find:before {
+	content: "\e602";
 }
-.icon-podcast:before {
-	content: "\e91c";
+.icon-services:before {
+	content: "\e603";
 }
-.icon-file-play:before {
-	content: "\e929";
+.icon-postcode:before {
+	content: "\e604";
+}
+.icon-download:before {
+	content: "\e605";
+}
+.icon-view:before {
+	content: "\e606";
+}
+.icon-arrow:before {
+	content: "\e607";
+}
+.icon-announcement:before {
+	content: "\e608";
+}
+.icon-help:before {
+	content: "\e609";
+}
+.icon-blog:before {
+	content: "\e612";
+}
+.icon-facebook:before {
+	content: "\e613";
+}
+.icon-chat:before {
+	content: "\e614";
+}
+.icon-edina:before {
+	content: "\e615";
+}
+.icon-information:before {
+	content: "\e616";
+}
+.icon-discover:before {
+	content: "\e617";
+}
+.icon-environment:before {
+	content: "\e618";
+}
+.icon-marine:before {
+	content: "\e619";
+}
+.icon-geology:before {
+	content: "\e61a";
+}
+.icon-historic:before {
+	content: "\e61b";
+}
+.icon-os:before {
+	content: "\e600";
+}
+.icon-welcome:before {
+	content: "\e601";
 }
